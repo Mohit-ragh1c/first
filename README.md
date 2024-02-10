@@ -1,4 +1,4 @@
 # first
 this is my git repository
 <br>
-author mohit raghuwanshi
+author Mohit Raghuwanshi
